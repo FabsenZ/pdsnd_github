@@ -223,25 +223,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
     print()
-'''
-=== HERE I IMPLEMENT MY CODE IN THE FIRST SUBMISSION ===
-    yes_no = ['Yes', 'No'] # option for selection
 
-    while True:
-        raw_data_display = input(' Do you want to see 5 raw data lines? Yes/No: ').title()
-        if raw_data_display in yes_no:
-            break
-        else:
-            print('Ups that\'s not a filter option, please try again')
-
-    counter_lines = 0
-
-    while raw_data_display == 'Yes':
-        counter_lines += 5
-        print(df.head(counter_lines))
-        raw_data_display = input('5 more line? --> Yes/No: ').title()
-
-'''
 
 def raw_lines(df):
         yes_no = ['Yes', 'No'] # option for selection
