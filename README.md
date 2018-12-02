@@ -2,7 +2,7 @@
 On a rainy sunday 02/12/2018 in Hamburg
 
 ### Analysis of bikeshare data
-Replace the Project Title
+
 
 ### Description
 
