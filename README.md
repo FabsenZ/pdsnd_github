@@ -24,8 +24,8 @@ A build-in loop at the end will ask you, if you want to display raw data at the 
 
 ### Files used
 
-bikeshare.py
-.gitognore
+* bikeshare.py
+* .gitignore
 
 ### Credits
 how to raise an error in a loop: https://stackoverflow.com/questions/35246467/raising-error-if-string-not-in-one-or-more-lists
