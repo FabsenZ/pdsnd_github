@@ -8,7 +8,10 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+
+bikeshare.py
+.gitognore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+how to raise an error in a loop: https://stackoverflow.com/questions/35246467/raising-error-if-string-not-in-one-or-more-lists
+good course material on udacity on how to use github and python stacks: https://eu.udacity.com/ 
